@@ -7,6 +7,7 @@
 📊 **My Coding Time this week:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   2 hrs 48 mins   █████████████████████▒░░░   85.42 % 
+CSV      28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 ```
 <!--END_SECTION:waka-->
